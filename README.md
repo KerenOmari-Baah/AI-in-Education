@@ -6,11 +6,11 @@ This repository showcases selected research projects and insights focused on the
 
 1. **Generative AI in Higher Education**  
    An analytical research report exploring the challenges, opportunities, and institutional responses to GenAI tools in academia.  
-   → [`reports/generative_ai_higher_edu.pdf`](./reports/generative_ai_higher_edu.pdf)
+   → [`reports/Generative_AI_in_Higher_Education.pdf`](./reports/Generative_AI_in_Higher_Education.pdf)
 
 2. **AI-Assisted Tutor Simulation**  
    A research-based project simulating the application of GEN AI in a feedback loop for student learning.  
-   → [`reports/ai_assisted_tutor_project.docx`](./reports/ai_assisted_tutor_project.docx)
+   → [`reports/AI_Assisted_Tutor.docx`](./reports/AI_Assisted_Tutor.docx)
 
 ## Mini Insights
 
