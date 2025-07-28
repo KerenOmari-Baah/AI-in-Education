@@ -12,6 +12,11 @@ This repository showcases selected research projects and insights focused on the
    A research-based project simulating the application of GEN AI in a feedback loop for student learning.  
    → [`reports/AI_Assisted_Tutor.docx`](./reports/AI_Assisted_Tutor.docx)
 
+   → [Generative_AI_in_Higher_Education.pdf](https://github.com/KerenOmari-Baah/Ai-in-Education/raw/main/reports/Generative_AI_in_Higher_Education.pdf)
+
+→ [AI_Assisted_Tutor.docx](https://github.com/KerenOmari-Baah/Ai-in-Education/raw/main/reports/AI_Assisted_Tutor.docx)
+
+
 ## Mini Insights
 
 Short reflections and conceptual frameworks aligned with research priorities in education technology:
